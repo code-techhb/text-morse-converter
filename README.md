@@ -40,7 +40,7 @@ The program operates through a simple interface where the user can select the ty
 
 ## Files in the Project
 
-- **`morse_converter.py`**: The main Python script that contains the logic for both conversions (plain text to Morse and vice versa).
+- **`main.py`**: The main Python script that contains the logic for both conversions (plain text to Morse and vice versa).
 - **`morse.py`**: A separate file containing the logo displayed when the program starts and the dictionary that maps 
   letters, numbers, and punctuation to their corresponding Morse code equivalents.
 
